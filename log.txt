@@ -1,0 +1,3 @@
+Info: 2021/08/03 11:26:33 log.go:25: This is some info
+Warning: 2021/08/03 11:26:33 log.go:26: This is a warning
+Error: 2021/08/03 11:26:33 log.go:27: this is an error
